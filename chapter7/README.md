@@ -8,7 +8,7 @@
 | net.py         | 主要是GraphSage定义           |
 | data.py        | 主要是Cora数据集准备          |
 | sampling.py    | 简单的采样接口                |
-| GraphSage_Cora | 简单的采样接口                |
+| GraphSage_Cora.ipynb | 简单的采样接口                |
 
 ### 运行示例
 
@@ -16,7 +16,7 @@
 
 ```shell
 cd chapter7
-# 对于文件 GraphSage_Cora.ypnb, 启动 jupyter notebook 进行查看 
+# 对于文件 GraphSage_Cora.ipynb, 启动 jupyter notebook 进行查看 
 python3 main.py
 ```
 
