@@ -5,6 +5,7 @@
 | 文件           | 说明                                 |
 | -------------- | ------------------------------------ |
 | GCN_Cora.ipynb | 基于Cora数据集的节点分类notebook     |
+| GCN_PubMed.ipynb | 基于PubMed数据集的节点分类notebook |
 | GCN_Cora.py    | 同GCN_Cora.ipynb，只是文件格式不一样 |
 
 ### 运行示例
