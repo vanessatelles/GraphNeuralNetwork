@@ -16,6 +16,7 @@
 ```shell
 cd chapter5
 # 对于文件 GCN_Cora.ipynb，启动 jupyter notebook 进行查看
+# 对于文件 GCN_PubMed.ipynb，启动 jupyter notebook 进行查看
 # 对于文件 GCN_Cora.py
 python3 GCN_Cora.py
 ```
